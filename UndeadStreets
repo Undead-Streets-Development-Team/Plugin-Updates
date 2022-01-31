@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PluginData>
+    <Version>0.1.4</Version>
+    <ExpirationDates>
+        <ExpirationDate Version="0.1.4" Date="12/30/9999"/>
+    </ExpirationDates>    
+    <Users>
+        <User Id="a8ed0ef40e7378d75cc5bcebc5ce6519" Authorization="Developer" />
+        <User Id="7332df2915db0c256c4ee5a2c843b138" Authorization="Developer" />
+        <User Id="b5e2641851783e6e93654ee80ee0abc5" Authorization="Developer" />
+        <User Id="f45a80bf2602179efb0f701d354b4e0f" Authorization="Tester" />
+        <User Id="bfc0938044e0e06386eca4c12dc5ae91" Authorization="Tester" />
+        <User Id="97292fb96a54dd062d657af5f315ea2a" Authorization="Tester" />
+        <User Id="3d6f6c5882ef2d6b0fae168e4bb8279b" Authorization="Tester" />
+        <User Id="2a38d90afd01dea64802beedef8f2f47" Authorization="Tester" />
+    </Users>
+</PluginData>
